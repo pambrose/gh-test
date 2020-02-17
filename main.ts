@@ -1,6 +1,6 @@
 forever(function () {
     light.showRing(
-    "red red red red red red red red red red"
+    `green green green green green green green green green green`
     )
     pause(100)
     light.showRing(
